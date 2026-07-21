@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0347_000-X.yaml, hash: 'sha256:5713149d8802f19d51bf74139621f5117b51b0b1b278849ca7ea9938106632f7'}
+  - {seq: 0, filename: KR6q0347_000-X.yaml, hash: 'sha256:3f79dfae83aef184b05af5a47757f9bdb475cfa35b5f90c811aed3210f1231c1'}
   - {seq: 1, filename: KR6q0347_001-X.yaml, hash: 'sha256:5dca2724095edca82a9c9d844b419e60f9e8867ad7a96639ae41efb3a7b0e837'}
   - {seq: 2, filename: KR6q0347_002-X.yaml, hash: 'sha256:2e8c2943d6370cdbd3aa3c93697421668bffc9d40eae36f78ddb6de1bc09f182'}
   - {seq: 3, filename: KR6q0347_003-X.yaml, hash: 'sha256:980931675966e35b062fe4b40a3910bb826c3fd92fe0cec09c71f2d7125695f2'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 8, filename: KR6q0347_008-X.yaml, hash: 'sha256:2aab9bae8cb035638e88bf6c9420eb0a3326cdd677eb774e1f81298f6a389b0f'}
   - {seq: 9, filename: KR6q0347_009-X.yaml, hash: 'sha256:a6935f2b6df305883d9ec6ed3aeb57513418f6f27ce62870a67fd6ce8fae18e5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0347_000-X.markers.yaml, hash: 'sha256:8c639583aa4f62d1c9c5a56e2585552971a14a6c22241b56b89a9344ff6b1492'}
+  - {seq: 0, role: markers, filename: assets/KR6q0347_000-X.markers.yaml, hash: 'sha256:7e358c1780b8575019960d1fca022b632f2e4f763779ae0c14c5ea866cb4b0ae'}
   - {seq: 1, role: markers, filename: assets/KR6q0347_001-X.markers.yaml, hash: 'sha256:ac1db3d230ac1a29445b7583fd7aa673eaf3afc8aee5884eaa3b408e4ce416f9'}
   - {seq: 2, role: markers, filename: assets/KR6q0347_002-X.markers.yaml, hash: 'sha256:3fe349e7f6630e12636e3f361011cbb0b45dd10c68a66d9e56e2c1980886eb3c'}
   - {seq: 3, role: markers, filename: assets/KR6q0347_003-X.markers.yaml, hash: 'sha256:abec4253d37e4f6153ec113d26e7f9a293942852edf9d5c5cd839ad6152f04c1'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0347_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1414-A 南堂了菴禪師語錄序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0347_X_000-mulu-2
     span:
-    - front
+    - body
     - 691
     - 691
   label: 了菴和尚語錄目次
@@ -5401,4 +5401,4 @@ table_of_contents:
   label: 開南堂和尚語錄板
   type: mulu
   level: 1
-hash: sha256:7178280744541d112494929eb6b7895e7da7f68ddc34ec870289d05b18956fc2
+hash: sha256:88066811c3e0c357ff949ac493045b03e3c861cdfa5c533a486e9c6ea3c416fb
